@@ -15,7 +15,7 @@ var coords = [ "27.17400606300552,78.0422513023935",
                "51.17877711750124,-1.826188341180512",
                "35.6244244,139.7755421",
                "43.610491,-116.197901" ];
-var key = "key=";
+var key = "key=AIzaSyDBj-XTMG_ONZwHnu_RHYUq6Aq0fSIVR8Y";
 var arenaLocation;
 
 function getPokemon(trainer, choice) {
